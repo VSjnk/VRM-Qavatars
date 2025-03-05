@@ -1,4 +1,4 @@
-# VRM Qavatars
+# VRM Qavatars Updated for 1.37.0 (CUrrent latest) 
 - Custom Avatars For Quest!
 ## Features
 - Full VRM 0.0 format support
